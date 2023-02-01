@@ -5,4 +5,4 @@ I am 29 years old, I was born in Mexico City on April 12, 1993. I studied cinema
 - `Organized`
 - `Methodical`
 #### Citation
-> "nerver, never,nerver give up"  
+> "never, never,never give up"  
